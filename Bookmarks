@@ -1,5 +1,5 @@
 {
-   "checksum": "8292891f467b36f022e4a8082c0360a2",
+   "checksum": "5e934f2974c6bd3e0eabe269be9492f9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -7,7 +7,7 @@
                "date_added": "13169805209964503",
                "id": "304",
                "meta_info": {
-                  "last_visited_desktop": "13178080539574518"
+                  "last_visited_desktop": "13181801689160932"
                },
                "name": "生产环境 | Salesforce",
                "type": "url",
@@ -16,7 +16,7 @@
                "date_added": "13174635003545050",
                "id": "353",
                "meta_info": {
-                  "last_visited_desktop": "13177995539993626"
+                  "last_visited_desktop": "13181808644147824"
                },
                "name": "测试环境 | Salesforce",
                "type": "url",
@@ -24,6 +24,9 @@
             }, {
                "date_added": "13174585066653281",
                "id": "348",
+               "meta_info": {
+                  "last_visited_desktop": "13181020555697320"
+               },
                "name": "Salesforce Knowledge Documentation Overview",
                "type": "url",
                "url": "https://help.salesforce.com/articleView?id=knowledge_map.htm&type=5"
@@ -43,7 +46,7 @@
                "date_added": "13174585609696488",
                "id": "351",
                "meta_info": {
-                  "last_visited_desktop": "13177735532998633"
+                  "last_visited_desktop": "13181021039723285"
                },
                "name": "Trailhead | The fun way to learn Salesforce",
                "type": "url",
@@ -63,9 +66,6 @@
             }, {
                "date_added": "13175135718105217",
                "id": "360",
-               "meta_info": {
-                  "last_visited_desktop": "13176952531064730"
-               },
                "name": "Tailor Business Processes to Different Users",
                "type": "url",
                "url": "https://help.salesforce.com/articleView?id=customize_recordtype.htm&type=5"
@@ -85,7 +85,7 @@
                "date_added": "13175135739505145",
                "id": "363",
                "meta_info": {
-                  "last_visited_desktop": "13178078881047352"
+                  "last_visited_desktop": "13181020478357997"
                },
                "name": "Practice Test.pdf - Adm 201 with Test at Salesforce Exam Prep - StudyBlue",
                "type": "url",
@@ -94,7 +94,7 @@
                "date_added": "13175135762296266",
                "id": "364",
                "meta_info": {
-                  "last_visited_desktop": "13178079587842942"
+                  "last_visited_desktop": "13181792443787762"
                },
                "name": "Certified Administrator Mock Exam - Salesforce Ben",
                "type": "url",
@@ -102,9 +102,6 @@
             }, {
                "date_added": "13176170596867007",
                "id": "370",
-               "meta_info": {
-                  "last_visited_desktop": "13176170596867360"
-               },
                "name": "Admin Beginner | Salesforce Trailhead",
                "type": "url",
                "url": "https://trailhead.salesforce.com/trails/force_com_admin_beginner"
@@ -112,7 +109,7 @@
                "date_added": "13177735941870690",
                "id": "380",
                "meta_info": {
-                  "last_visited_desktop": "13177752494808450"
+                  "last_visited_desktop": "13181791122192817"
                },
                "name": "TP1 | Salesforce",
                "type": "url",
@@ -120,36 +117,24 @@
             }, {
                "date_added": "13178079205255039",
                "id": "382",
-               "meta_info": {
-                  "last_visited_desktop": "13178079205255220"
-               },
                "name": "Salesforce考试",
                "type": "url",
                "url": "https://mp.weixin.qq.com/s/0bhb5oSjAk1h2Ie2btv94g"
             }, {
                "date_added": "13178079278655691",
                "id": "383",
-               "meta_info": {
-                  "last_visited_desktop": "13178079278655875"
-               },
                "name": "Salesforce考试2",
                "type": "url",
                "url": "https://mp.weixin.qq.com/s/6Aa0V3EbK_0Hq1dOLvoAgg"
             }, {
                "date_added": "13178079545323829",
                "id": "384",
-               "meta_info": {
-                  "last_visited_desktop": "13178079545324011"
-               },
                "name": "免费的学习工具和单词卡 | Quizlet",
                "type": "url",
                "url": "https://quizlet.com/zh-cn"
             }, {
                "date_added": "13178079768220124",
                "id": "385",
-               "meta_info": {
-                  "last_visited_desktop": "13178079768220411"
-               },
                "name": "ADM 201 Quizzes - SFDCStudy",
                "type": "url",
                "url": "https://sfdcstudy.org/adm-201-certification/adm-201-quizzes/"
@@ -157,14 +142,29 @@
                "date_added": "13178079788365926",
                "id": "386",
                "meta_info": {
-                  "last_visited_desktop": "13178079788366168"
+                  "last_visited_desktop": "13181792444677317"
                },
                "name": "Certified Administrator Mock Exam - Salesforce Ben",
                "type": "url",
                "url": "https://www.salesforceben.com/certified-admin-mock-exam/"
+            }, {
+               "date_added": "13178081380012949",
+               "id": "387",
+               "name": "Cram.com: Create and Share Online Flashcards",
+               "type": "url",
+               "url": "https://www.cram.com/"
+            }, {
+               "date_added": "13181021060506095",
+               "id": "401",
+               "meta_info": {
+                  "last_visited_desktop": "13181793917307851"
+               },
+               "name": "欢迎使用 Salesforce 文档",
+               "type": "url",
+               "url": "https://help.salesforce.com/articleView?id=salesforce_help_map.htm&type=5"
             } ],
             "date_added": "13174585023934530",
-            "date_modified": "13178079788365926",
+            "date_modified": "13181359657518320",
             "id": "346",
             "name": "salesforce",
             "type": "folder"
@@ -185,7 +185,7 @@
                "date_added": "13144990500951736",
                "id": "10",
                "meta_info": {
-                  "last_visited_desktop": "13177406074541216"
+                  "last_visited_desktop": "13181809283144694"
                },
                "name": "百度翻译",
                "type": "url",
@@ -212,9 +212,6 @@
             }, {
                "date_added": "13168482496987001",
                "id": "276",
-               "meta_info": {
-                  "last_visited_desktop": "13177071592781352"
-               },
                "name": "Django documentation | Django documentation | Django",
                "type": "url",
                "url": "https://docs.djangoproject.com/en/2.0/"
@@ -481,6 +478,9 @@
             }, {
                "date_added": "13160633533151824",
                "id": "241",
+               "meta_info": {
+                  "last_visited_desktop": "13181274179129217"
+               },
                "name": "Carey的博客",
                "type": "url",
                "url": "https://carey.akhack.com/"
@@ -493,6 +493,9 @@
             }, {
                "date_added": "13162380414393206",
                "id": "249",
+               "meta_info": {
+                  "last_visited_desktop": "13181273730648969"
+               },
                "name": "许胜利的博客专栏 - 天善智能：专注于商业智能BI和数据分析、大数据领域的垂直社区平台",
                "type": "url",
                "url": "https://ask.hellobi.com/blog/zhiji"
@@ -505,6 +508,9 @@
             }, {
                "date_added": "13171510248439304",
                "id": "321",
+               "meta_info": {
+                  "last_visited_desktop": "13181273628789253"
+               },
                "name": "pandas: powerful Python data analysis toolkit — pandas 0.23.0 documentation",
                "type": "url",
                "url": "http://pandas.pydata.org/pandas-docs/stable/"
@@ -514,9 +520,27 @@
                "name": "Python程序员",
                "type": "url",
                "url": "https://mp.weixin.qq.com/s/LDoZ9wng9Vi1ADmLu84fsw"
+            }, {
+               "date_added": "13180583207277802",
+               "id": "399",
+               "meta_info": {
+                  "last_visited_desktop": "13181274219257050"
+               },
+               "name": "Python Tutorials – Real Python",
+               "type": "url",
+               "url": "https://realpython.com/"
+            }, {
+               "date_added": "13181793497150504",
+               "id": "408",
+               "meta_info": {
+                  "last_visited_desktop": "13181807762034653"
+               },
+               "name": "Stack Abuse",
+               "type": "url",
+               "url": "https://stackabuse.com/"
             } ],
             "date_added": "13156616268031666",
-            "date_modified": "13174961406178935",
+            "date_modified": "13181807784960899",
             "id": "179",
             "name": "python综合信息",
             "type": "folder"
@@ -533,9 +557,18 @@
                "name": "理解Python的With语句 - train的专栏 - CSDN博客",
                "type": "url",
                "url": "http://blog.csdn.net/suwei19870312/article/details/23258495/"
+            }, {
+               "date_added": "13179461621121916",
+               "id": "392",
+               "meta_info": {
+                  "last_visited_desktop": "13181807792258902"
+               },
+               "name": "python生成器的问题，大佬帮帮忙 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/q/1010000016013187?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly"
             } ],
             "date_added": "13156747480938558",
-            "date_modified": "13157118708986257",
+            "date_modified": "13181807805963291",
             "id": "183",
             "name": "python理论",
             "type": "folder"
@@ -543,6 +576,9 @@
             "children": [ {
                "date_added": "13173767109559334",
                "id": "331",
+               "meta_info": {
+                  "last_visited_desktop": "13181278459296522"
+               },
                "name": "Index — pandas 0.23.1 documentation",
                "type": "url",
                "url": "http://pandas.pydata.org/pandas-docs/stable/genindex.html"
@@ -555,12 +591,66 @@
             }, {
                "date_added": "13174121622329960",
                "id": "344",
+               "meta_info": {
+                  "last_visited_desktop": "13181278468647743"
+               },
                "name": "Python数据分析之pandas学习 - Little_Rookie - 博客园",
                "type": "url",
                "url": "https://www.cnblogs.com/nxld/p/6058591.html"
+            }, {
+               "date_added": "13180582319956949",
+               "id": "395",
+               "meta_info": {
+                  "last_visited_desktop": "13181032609609148"
+               },
+               "name": "Pandas透视表（pivot_table）详解 - 多一点 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/onemorepoint/p/8425300.html"
+            }, {
+               "date_added": "13180582433291202",
+               "id": "396",
+               "name": "API Reference — pandas 0.23.4 documentation",
+               "type": "url",
+               "url": "http://pandas.pydata.org/pandas-docs/stable/api.html"
+            }, {
+               "date_added": "13181359657518320",
+               "id": "404",
+               "meta_info": {
+                  "last_visited_desktop": "13181359657518555"
+               },
+               "name": "pandas常用函数之shift - pinweihelai - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/iamxyq/p/6283334.html"
+            }, {
+               "date_added": "13173788262858643",
+               "id": "333",
+               "meta_info": {
+                  "last_visited_desktop": "13181806323844911"
+               },
+               "name": "Pandas日期数据处理：如何按日期筛选、显示及统计数据 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/b91e3ae940ec"
+            }, {
+               "date_added": "13173788298258930",
+               "id": "337",
+               "meta_info": {
+                  "last_visited_desktop": "13181807436187771"
+               },
+               "name": "python - Pandas按日期对状态进行汇总统计 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/q/1010000009769989"
+            }, {
+               "date_added": "13181793527214757",
+               "id": "409",
+               "meta_info": {
+                  "last_visited_desktop": "13181808180135913"
+               },
+               "name": "Creating a Simple Recommender System in Python using Pandas",
+               "type": "url",
+               "url": "https://stackabuse.com/creating-a-simple-recommender-system-in-python-using-pandas/"
             } ],
             "date_added": "13173767144482855",
-            "date_modified": "13174121626217866",
+            "date_modified": "13181808191207062",
             "id": "332",
             "name": "数据分析",
             "type": "folder"
@@ -568,7 +658,7 @@
             "date_added": "13177142353744728",
             "id": "377",
             "meta_info": {
-               "last_visited_desktop": "13177387774978049"
+               "last_visited_desktop": "13181273710755206"
             },
             "name": "我的问卷",
             "type": "url",
@@ -577,14 +667,23 @@
             "date_added": "13177733666165885",
             "id": "379",
             "meta_info": {
-               "last_visited_desktop": "13177755993872352"
+               "last_visited_desktop": "13181800439429812"
             },
             "name": "3.9 SOSP优化记录台账 - 标准视图",
             "type": "url",
             "url": "http://moss/department/SCZC/Lists/39%20SOSP/view.aspx"
+         }, {
+            "date_added": "13181798325964634",
+            "id": "410",
+            "meta_info": {
+               "last_visited_desktop": "13181810207472100"
+            },
+            "name": "DonJayamanne/vscodeJupyter: Jupyter for Visual Studio Code",
+            "type": "url",
+            "url": "https://github.com/DonJayamanne/vscodeJupyter"
          } ],
          "date_added": "13144328469589494",
-         "date_modified": "13177735941870690",
+         "date_modified": "13181798330411499",
          "id": "1",
          "name": "书签栏",
          "type": "folder"
@@ -673,15 +772,30 @@
             }, {
                "date_added": "13173857796501104",
                "id": "339",
-               "meta_info": {
-                  "last_visited_desktop": "13176446126032894"
-               },
                "name": "前端HTML\u003Cform>表单的属性和使用 - CSDN博客",
                "type": "url",
                "url": "https://blog.csdn.net/baidu_25343343/article/details/52741651"
+            }, {
+               "date_added": "13179459566039996",
+               "id": "389",
+               "meta_info": {
+                  "last_visited_desktop": "13181807502104277"
+               },
+               "name": "2019届校招前端面试题整理——HTML、CSS篇 - 个人文章 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/a/1190000015960009?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly"
+            }, {
+               "date_added": "13179459607304189",
+               "id": "391",
+               "meta_info": {
+                  "last_visited_desktop": "13181807537664321"
+               },
+               "name": "两招搞定三栏布局——圣杯布局、双飞翼布局 - 个人文章 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/a/1190000015950592?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly"
             } ],
             "date_added": "13153557301275947",
-            "date_modified": "13173944862979147",
+            "date_modified": "13181807551826555",
             "id": "133",
             "name": "web前端",
             "type": "folder"
@@ -692,9 +806,18 @@
                "name": "LintCode - 主页",
                "type": "url",
                "url": "http://www.lintcode.com/zh-cn/?error=redirect_uri_mismatch&error_description=The+redirect_uri+MUST+match+the+registered+callback+URL+for+this+application.&error_uri=https%3A%2F%2Fdeveloper.github.com%2Fv3%2Foauth%2F%23redirect-uri-mismatch&state=0cDLT27gNx5Q"
+            }, {
+               "date_added": "13179459592659437",
+               "id": "390",
+               "meta_info": {
+                  "last_visited_desktop": "13181808152446358"
+               },
+               "name": "taizilongxu/interview_python: 关于Python的面试题",
+               "type": "url",
+               "url": "https://github.com/taizilongxu/interview_python"
             } ],
             "date_added": "13156931725615093",
-            "date_modified": "13156931958748501",
+            "date_modified": "13181808168327422",
             "id": "191",
             "name": "python刷题",
             "type": "folder"
@@ -805,7 +928,7 @@
             "date_added": "13156940586633516",
             "date_modified": "13157435071319120",
             "id": "195",
-            "name": "python面试相关",
+            "name": "python基础算法",
             "type": "folder"
          }, {
             "children": [ {
@@ -832,9 +955,18 @@
                "name": "EdgeDB Documentation",
                "type": "url",
                "url": "https://edgedb.com/docs/quickstart/"
+            }, {
+               "date_added": "13179461626089558",
+               "id": "393",
+               "meta_info": {
+                  "last_visited_desktop": "13181807608469025"
+               },
+               "name": "mysql优化 - mysql查询性能问题，加了order by速度慢了差不多50倍 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/q/1010000015992166?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly"
             } ],
             "date_added": "13157774903943703",
-            "date_modified": "13171510248439304",
+            "date_modified": "13181807617956651",
             "id": "216",
             "name": "数据库相关",
             "type": "folder"
@@ -884,9 +1016,6 @@
             }, {
                "date_added": "13171646905635631",
                "id": "323",
-               "meta_info": {
-                  "last_visited_desktop": "13176880953893382"
-               },
                "name": "逆天神器 cmder",
                "type": "url",
                "url": "http://bg.biedalian.com/2014/09/11/cmder.html"
@@ -1082,24 +1211,33 @@
             }, {
                "date_added": "13176434630997605",
                "id": "372",
-               "meta_info": {
-                  "last_visited_desktop": "13176434630997777"
-               },
                "name": "Reading and Writing CSV Files in Python – Real Python",
                "type": "url",
                "url": "https://realpython.com/python-csv/"
             }, {
                "date_added": "13176954272593509",
                "id": "374",
-               "meta_info": {
-                  "last_visited_desktop": "13176954272593784"
-               },
                "name": "Fast, Flexible, Easy and Intuitive: How to Speed Up Your Pandas Projects – Real Python",
                "type": "url",
                "url": "https://realpython.com/fast-flexible-pandas/"
+            }, {
+               "date_added": "13180582884960767",
+               "id": "397",
+               "name": "django-registration 3.0",
+               "type": "url",
+               "url": "https://www.b-list.org/weblog/2018/sep/04/three-dot-oh/"
+            }, {
+               "date_added": "13180583119541791",
+               "id": "398",
+               "meta_info": {
+                  "last_visited_desktop": "13181274239509940"
+               },
+               "name": "Python Pandas: Tricks & Features You May Not Know – Real Python",
+               "type": "url",
+               "url": "https://realpython.com/python-pandas-tricks/"
             } ],
             "date_added": "13168069699725262",
-            "date_modified": "13177134687208953",
+            "date_modified": "13180583207277802",
             "id": "272",
             "name": "python资讯",
             "type": "folder"
@@ -1108,7 +1246,7 @@
                "date_added": "13169797203334729",
                "id": "299",
                "meta_info": {
-                  "last_visited_desktop": "13177744557316603"
+                  "last_visited_desktop": "13181719692481818"
                },
                "name": "SoBooks - 优质的kindle电子书资源免费下载网站（原\"SoKindle\"）",
                "type": "url",
@@ -1117,7 +1255,7 @@
                "date_added": "13169797306030497",
                "id": "301",
                "meta_info": {
-                  "last_visited_desktop": "13177745032427148"
+                  "last_visited_desktop": "13181719771553188"
                },
                "name": "salttiger.com",
                "type": "url",
@@ -1126,7 +1264,7 @@
                "date_added": "13169797353995469",
                "id": "302",
                "meta_info": {
-                  "last_visited_desktop": "13177745080801513"
+                  "last_visited_desktop": "13181634763790931"
                },
                "name": "All IT eBooks - Free IT eBooks Download",
                "type": "url",
@@ -1135,7 +1273,7 @@
                "date_added": "13169797575144166",
                "id": "303",
                "meta_info": {
-                  "last_visited_desktop": "13177746027355081"
+                  "last_visited_desktop": "13181279922437867"
                },
                "name": "Fox eBook - eBooks Free Download Site",
                "type": "url",
@@ -1160,33 +1298,9 @@
             "name": "模型材料",
             "type": "folder"
          }, {
-            "children": [ {
-               "date_added": "13173788262858643",
-               "id": "333",
-               "name": "Pandas日期数据处理：如何按日期筛选、显示及统计数据 - 简书",
-               "type": "url",
-               "url": "https://www.jianshu.com/p/b91e3ae940ec"
-            }, {
-               "date_added": "13173788278667218",
-               "id": "335",
-               "name": "Pandas日期数据处理：如何按日期筛选、显示及统计数据",
-               "type": "url",
-               "url": "http://www.mamicode.com/info-detail-1822406.html"
-            }, {
-               "date_added": "13173788282267106",
-               "id": "336",
-               "name": "Pandas日期数据处理：如何按日期筛选、显示及统计数据 - CSDN博客",
-               "type": "url",
-               "url": "https://blog.csdn.net/huobanjishijian/article/details/78721618"
-            }, {
-               "date_added": "13173788298258930",
-               "id": "337",
-               "name": "python - Pandas按日期对状态进行汇总统计 - SegmentFault 思否",
-               "type": "url",
-               "url": "https://segmentfault.com/q/1010000009769989"
-            } ],
+            "children": [  ],
             "date_added": "13173788275339632",
-            "date_modified": "13173857796501104",
+            "date_modified": "13181798325964634",
             "id": "334",
             "name": "临时",
             "type": "folder"
