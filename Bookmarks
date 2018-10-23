@@ -1,5 +1,5 @@
 {
-   "checksum": "5e934f2974c6bd3e0eabe269be9492f9",
+   "checksum": "7f3e67fb16fa28331a49c413d29b19f4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -7,7 +7,7 @@
                "date_added": "13169805209964503",
                "id": "304",
                "meta_info": {
-                  "last_visited_desktop": "13181801689160932"
+                  "last_visited_desktop": "13184756356246878"
                },
                "name": "生产环境 | Salesforce",
                "type": "url",
@@ -16,7 +16,7 @@
                "date_added": "13174635003545050",
                "id": "353",
                "meta_info": {
-                  "last_visited_desktop": "13181808644147824"
+                  "last_visited_desktop": "13184747567724328"
                },
                "name": "测试环境 | Salesforce",
                "type": "url",
@@ -25,7 +25,7 @@
                "date_added": "13174585066653281",
                "id": "348",
                "meta_info": {
-                  "last_visited_desktop": "13181020555697320"
+                  "last_visited_desktop": "13181878925321819"
                },
                "name": "Salesforce Knowledge Documentation Overview",
                "type": "url",
@@ -109,7 +109,7 @@
                "date_added": "13177735941870690",
                "id": "380",
                "meta_info": {
-                  "last_visited_desktop": "13181791122192817"
+                  "last_visited_desktop": "13184650214362714"
                },
                "name": "TP1 | Salesforce",
                "type": "url",
@@ -157,7 +157,7 @@
                "date_added": "13181021060506095",
                "id": "401",
                "meta_info": {
-                  "last_visited_desktop": "13181793917307851"
+                  "last_visited_desktop": "13183799458542867"
                },
                "name": "欢迎使用 Salesforce 文档",
                "type": "url",
@@ -185,7 +185,7 @@
                "date_added": "13144990500951736",
                "id": "10",
                "meta_info": {
-                  "last_visited_desktop": "13181809283144694"
+                  "last_visited_desktop": "13184384457652621"
                },
                "name": "百度翻译",
                "type": "url",
@@ -212,6 +212,9 @@
             }, {
                "date_added": "13168482496987001",
                "id": "276",
+               "meta_info": {
+                  "last_visited_desktop": "13184225409052280"
+               },
                "name": "Django documentation | Django documentation | Django",
                "type": "url",
                "url": "https://docs.djangoproject.com/en/2.0/"
@@ -414,9 +417,18 @@
                "name": "how to embed standalone bokeh graphs into django templates | 易学教程",
                "type": "url",
                "url": "https://www.e-learn.cn/content/wangluowenzhang/68881"
+            }, {
+               "date_added": "13184225375151699",
+               "id": "433",
+               "meta_info": {
+                  "last_visited_desktop": "13184225375151914"
+               },
+               "name": "Python and Django tutorial in Visual Studio Code",
+               "type": "url",
+               "url": "https://code.visualstudio.com/docs/python/tutorial-django"
             } ],
             "date_added": "13148437915382919",
-            "date_modified": "13171340002425429",
+            "date_modified": "13184752822901921",
             "id": "52",
             "name": "django参考资料",
             "type": "folder"
@@ -500,21 +512,6 @@
                "type": "url",
                "url": "https://ask.hellobi.com/blog/zhiji"
             }, {
-               "date_added": "13165908933071837",
-               "id": "261",
-               "name": "Developer Guide — Bokeh 0.12.14 documentation",
-               "type": "url",
-               "url": "https://bokeh.pydata.org/en/latest/docs/dev_guide.html"
-            }, {
-               "date_added": "13171510248439304",
-               "id": "321",
-               "meta_info": {
-                  "last_visited_desktop": "13181273628789253"
-               },
-               "name": "pandas: powerful Python data analysis toolkit — pandas 0.23.0 documentation",
-               "type": "url",
-               "url": "http://pandas.pydata.org/pandas-docs/stable/"
-            }, {
                "date_added": "13174836986314023",
                "id": "355",
                "name": "Python程序员",
@@ -524,7 +521,7 @@
                "date_added": "13180583207277802",
                "id": "399",
                "meta_info": {
-                  "last_visited_desktop": "13181274219257050"
+                  "last_visited_desktop": "13182598203067363"
                },
                "name": "Python Tutorials – Real Python",
                "type": "url",
@@ -533,7 +530,7 @@
                "date_added": "13181793497150504",
                "id": "408",
                "meta_info": {
-                  "last_visited_desktop": "13181807762034653"
+                  "last_visited_desktop": "13182594067234915"
                },
                "name": "Stack Abuse",
                "type": "url",
@@ -577,7 +574,7 @@
                "date_added": "13173767109559334",
                "id": "331",
                "meta_info": {
-                  "last_visited_desktop": "13181278459296522"
+                  "last_visited_desktop": "13183795922892597"
                },
                "name": "Index — pandas 0.23.1 documentation",
                "type": "url",
@@ -585,6 +582,9 @@
             }, {
                "date_added": "13173944862979147",
                "id": "341",
+               "meta_info": {
+                  "last_visited_desktop": "13183607008738449"
+               },
                "name": "PacktPublishing/Learning-Pandas-Second-Edition: Learning pandas, Second Edition, published by Packt",
                "type": "url",
                "url": "https://github.com/PacktPublishing/Learning-Pandas-Second-Edition"
@@ -601,7 +601,7 @@
                "date_added": "13180582319956949",
                "id": "395",
                "meta_info": {
-                  "last_visited_desktop": "13181032609609148"
+                  "last_visited_desktop": "13181978994734300"
                },
                "name": "Pandas透视表（pivot_table）详解 - 多一点 - 博客园",
                "type": "url",
@@ -643,22 +643,197 @@
                "date_added": "13181793527214757",
                "id": "409",
                "meta_info": {
-                  "last_visited_desktop": "13181808180135913"
+                  "last_visited_desktop": "13181981976708107"
                },
                "name": "Creating a Simple Recommender System in Python using Pandas",
                "type": "url",
                "url": "https://stackabuse.com/creating-a-simple-recommender-system-in-python-using-pandas/"
+            }, {
+               "date_added": "13183459955489031",
+               "id": "420",
+               "meta_info": {
+                  "last_visited_desktop": "13183459955551352"
+               },
+               "name": "pandas-resample按时间聚合 - sinat_41701878的博客 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/sinat_41701878/article/details/80491631"
+            }, {
+               "date_added": "13183719082018415",
+               "id": "426",
+               "meta_info": {
+                  "last_visited_desktop": "13183786212065786"
+               },
+               "name": "pandas DataFrame 根据多列的值做判断，生成新的列值 - 魏之燕 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_30565883/article/details/79464266"
+            }, {
+               "date_added": "13183786348271699",
+               "id": "428",
+               "meta_info": {
+                  "last_visited_desktop": "13183786348271957"
+               },
+               "name": "pandas 如何分割字符 - SCUT_Sam - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_22238533/article/details/76187597"
+            }, {
+               "date_added": "13183786709406757",
+               "id": "429",
+               "meta_info": {
+                  "last_visited_desktop": "13183786709444179"
+               },
+               "name": "字符串处理方法一览表",
+               "type": "url",
+               "url": "https://www.cnblogs.com/P--K/p/8443995.html"
+            }, {
+               "date_added": "13183795393816998",
+               "id": "430",
+               "meta_info": {
+                  "last_visited_desktop": "13184749051118721"
+               },
+               "name": "数据分组、区间化",
+               "type": "url",
+               "url": "https://blog.csdn.net/weixin_38168620/article/details/81189278"
+            }, {
+               "date_added": "13183796305650304",
+               "id": "431",
+               "meta_info": {
+                  "last_visited_desktop": "13184751727126740"
+               },
+               "name": "qcut和cut",
+               "type": "url",
+               "url": "https://www.cnblogs.com/houzichiguodong/p/9097790.html"
+            }, {
+               "date_added": "13184752822901921",
+               "id": "435",
+               "meta_info": {
+                  "last_visited_desktop": "13184753523480039"
+               },
+               "name": "判断数据是否为nan, null",
+               "type": "url",
+               "url": "https://blog.csdn.net/xidianliutingting/article/details/62041891"
+            }, {
+               "date_added": "13184754076706844",
+               "id": "436",
+               "meta_info": {
+                  "last_visited_desktop": "13184754076707344"
+               },
+               "name": "pandas插入列和行",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/7df2593a01ce"
+            }, {
+               "date_added": "13184754606830269",
+               "id": "437",
+               "meta_info": {
+                  "last_visited_desktop": "13184754606830462"
+               },
+               "name": "Series，DataFrame的连接",
+               "type": "url",
+               "url": "https://blog.csdn.net/xiaodongxiexie/article/details/71774594"
+            }, {
+               "date_added": "13184755553573874",
+               "id": "438",
+               "meta_info": {
+                  "last_visited_desktop": "13184755553574087"
+               },
+               "name": "修改列名",
+               "type": "url",
+               "url": "https://blog.csdn.net/leichaoaizhaojie/article/details/52629549"
+            }, {
+               "date_added": "13184759601610337",
+               "id": "439",
+               "meta_info": {
+                  "last_visited_desktop": "13184759601610652"
+               },
+               "name": "Apply函数",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_19528953/article/details/79348929"
+            }, {
+               "date_added": "13184760308023274",
+               "id": "440",
+               "meta_info": {
+                  "last_visited_desktop": "13184760308023487"
+               },
+               "name": "groupby, agg, apply的使用方法",
+               "type": "url",
+               "url": "https://yq.aliyun.com/articles/420657"
+            }, {
+               "date_added": "13184760414867815",
+               "id": "441",
+               "meta_info": {
+                  "last_visited_desktop": "13184760414868217"
+               },
+               "name": "阿里云与pandas相关内容",
+               "type": "url",
+               "url": "https://yq.aliyun.com/tags/type_blog-tagid_1275/?spm=a2c4e.11155435.0.0.1e1c2de4LGHMYo"
             } ],
             "date_added": "13173767144482855",
-            "date_modified": "13181808191207062",
+            "date_modified": "13184760414867815",
             "id": "332",
             "name": "数据分析",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13168069459558644",
+               "id": "269",
+               "meta_info": {
+                  "last_visited_desktop": "13183613663557164"
+               },
+               "name": "Altair: Declarative Visualization in Python — Altair 2.0.0rc2 documentation",
+               "type": "url",
+               "url": "https://altair-viz.github.io/"
+            }, {
+               "date_added": "13161776851430320",
+               "id": "243",
+               "meta_info": {
+                  "last_visited_desktop": "13183623325319400"
+               },
+               "name": "pyecharts - 首页",
+               "type": "url",
+               "url": "http://pyecharts.herokuapp.com/"
+            }, {
+               "date_added": "13168506789523906",
+               "id": "278",
+               "meta_info": {
+                  "last_visited_desktop": "13181995374903513"
+               },
+               "name": "Welcome to Bokeh — Bokeh 0.12.15 documentation",
+               "type": "url",
+               "url": "https://bokeh.pydata.org/en/latest/"
+            }, {
+               "date_added": "13169273389086805",
+               "id": "290",
+               "name": "Python Data Visualization | LibHunt",
+               "type": "url",
+               "url": "https://python.libhunt.com/categories/310-data-visualization?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly"
+            }, {
+               "date_added": "13181994391642874",
+               "id": "412",
+               "meta_info": {
+                  "last_visited_desktop": "13181994438264776"
+               },
+               "name": "Example gallery — seaborn 0.9.0 documentation",
+               "type": "url",
+               "url": "http://seaborn.pydata.org/examples/index.html"
+            }, {
+               "date_added": "13171510248439304",
+               "id": "321",
+               "meta_info": {
+                  "last_visited_desktop": "13181273628789253"
+               },
+               "name": "pandas: powerful Python data analysis toolkit — pandas 0.23.0 documentation",
+               "type": "url",
+               "url": "http://pandas.pydata.org/pandas-docs/stable/"
+            } ],
+            "date_added": "13168069480695743",
+            "date_modified": "13182594780778351",
+            "id": "270",
+            "name": "数据可视",
             "type": "folder"
          }, {
             "date_added": "13177142353744728",
             "id": "377",
             "meta_info": {
-               "last_visited_desktop": "13181273710755206"
+               "last_visited_desktop": "13182759779733792"
             },
             "name": "我的问卷",
             "type": "url",
@@ -667,7 +842,7 @@
             "date_added": "13177733666165885",
             "id": "379",
             "meta_info": {
-               "last_visited_desktop": "13181800439429812"
+               "last_visited_desktop": "13183693737422165"
             },
             "name": "3.9 SOSP优化记录台账 - 标准视图",
             "type": "url",
@@ -676,14 +851,48 @@
             "date_added": "13181798325964634",
             "id": "410",
             "meta_info": {
-               "last_visited_desktop": "13181810207472100"
+               "last_visited_desktop": "13182488143173061"
             },
             "name": "DonJayamanne/vscodeJupyter: Jupyter for Visual Studio Code",
             "type": "url",
             "url": "https://github.com/DonJayamanne/vscodeJupyter"
+         }, {
+            "children": [ {
+               "date_added": "13182601106674509",
+               "id": "416",
+               "meta_info": {
+                  "last_visited_desktop": "13182601106675835"
+               },
+               "name": "Git fetch和git pull的区别, 解决Git报错:error: You have not concluded your merge (MERGE_HEAD exists). - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/feng2qing/article/details/56496441"
+            }, {
+               "date_added": "13182601426806440",
+               "id": "417",
+               "meta_info": {
+                  "last_visited_desktop": "13182601426806911"
+               },
+               "name": "常用Git命令手册 - IT大飞说 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/angel88/p/8194014.html"
+            }, {
+               "date_added": "13182601961234276",
+               "id": "418",
+               "meta_info": {
+                  "last_visited_desktop": "13182601961234670"
+               },
+               "name": "You have not concluded your merge (MERGE_HEAD exists) git拉取失败 一介布衣",
+               "type": "url",
+               "url": "http://yijiebuyi.com/blog/5b55eb51ad49ce41e2de9c85dd4513ca.html"
+            } ],
+            "date_added": "13182601104105147",
+            "date_modified": "13183459955489031",
+            "id": "415",
+            "name": "git",
+            "type": "folder"
          } ],
          "date_added": "13144328469589494",
-         "date_modified": "13181798330411499",
+         "date_modified": "13182601106674509",
          "id": "1",
          "name": "书签栏",
          "type": "folder"
@@ -909,6 +1118,9 @@
             }, {
                "date_added": "13156930449344977",
                "id": "189",
+               "meta_info": {
+                  "last_visited_desktop": "13183611136840918"
+               },
                "name": "捕蛇者说",
                "type": "url",
                "url": "http://www.bugcode.cn/"
@@ -1052,37 +1264,6 @@
             "type": "folder"
          }, {
             "children": [ {
-               "date_added": "13168069459558644",
-               "id": "269",
-               "name": "Altair: Declarative Visualization in Python — Altair 2.0.0rc2 documentation",
-               "type": "url",
-               "url": "https://altair-viz.github.io/"
-            }, {
-               "date_added": "13161776851430320",
-               "id": "243",
-               "name": "pyecharts - 首页",
-               "type": "url",
-               "url": "http://pyecharts.herokuapp.com/"
-            }, {
-               "date_added": "13168506789523906",
-               "id": "278",
-               "name": "Welcome to Bokeh — Bokeh 0.12.15 documentation",
-               "type": "url",
-               "url": "https://bokeh.pydata.org/en/latest/"
-            }, {
-               "date_added": "13169273389086805",
-               "id": "290",
-               "name": "Python Data Visualization | LibHunt",
-               "type": "url",
-               "url": "https://python.libhunt.com/categories/310-data-visualization?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly"
-            } ],
-            "date_added": "13168069480695743",
-            "date_modified": "13169352757313311",
-            "id": "270",
-            "name": "数据可视",
-            "type": "folder"
-         }, {
-            "children": [ {
                "date_added": "13168069680823926",
                "id": "271",
                "name": "EdgeDB: A New Beginning",
@@ -1217,6 +1398,9 @@
             }, {
                "date_added": "13176954272593509",
                "id": "374",
+               "meta_info": {
+                  "last_visited_desktop": "13182596685406272"
+               },
                "name": "Fast, Flexible, Easy and Intuitive: How to Speed Up Your Pandas Projects – Real Python",
                "type": "url",
                "url": "https://realpython.com/fast-flexible-pandas/"
@@ -1246,7 +1430,7 @@
                "date_added": "13169797203334729",
                "id": "299",
                "meta_info": {
-                  "last_visited_desktop": "13181719692481818"
+                  "last_visited_desktop": "13184297696428534"
                },
                "name": "SoBooks - 优质的kindle电子书资源免费下载网站（原\"SoKindle\"）",
                "type": "url",
@@ -1255,7 +1439,7 @@
                "date_added": "13169797306030497",
                "id": "301",
                "meta_info": {
-                  "last_visited_desktop": "13181719771553188"
+                  "last_visited_desktop": "13184225529759581"
                },
                "name": "salttiger.com",
                "type": "url",
@@ -1264,7 +1448,7 @@
                "date_added": "13169797353995469",
                "id": "302",
                "meta_info": {
-                  "last_visited_desktop": "13181634763790931"
+                  "last_visited_desktop": "13184226713060917"
                },
                "name": "All IT eBooks - Free IT eBooks Download",
                "type": "url",
@@ -1273,7 +1457,7 @@
                "date_added": "13169797575144166",
                "id": "303",
                "meta_info": {
-                  "last_visited_desktop": "13181279922437867"
+                  "last_visited_desktop": "13183623653281842"
                },
                "name": "Fox eBook - eBooks Free Download Site",
                "type": "url",
@@ -1310,6 +1494,36 @@
             "name": "【CRM登录】销售易CRM登录-销售易CRM",
             "type": "url",
             "url": "https://crm.xiaoshouyi.com/global/login.action"
+         }, {
+            "children": [  ],
+            "date_added": "13181994405474827",
+            "date_modified": "13181994405474827",
+            "id": "413",
+            "name": "新建文件夹",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [  ],
+               "date_added": "13183635660102330",
+               "date_modified": "13183635660102330",
+               "id": "423",
+               "name": "新建文件夹",
+               "type": "folder"
+            }, {
+               "date_added": "13183635663909487",
+               "id": "424",
+               "meta_info": {
+                  "last_visited_desktop": "13183635663909799"
+               },
+               "name": "Apress/python-data-analytics-2e: Source Code for 'Python Data Analytics, 2nd Edition' by Fabio Nelli",
+               "type": "url",
+               "url": "https://github.com/Apress/python-data-analytics-2e"
+            } ],
+            "date_added": "13183635660102237",
+            "date_modified": "13183719082018415",
+            "id": "422",
+            "name": "github",
+            "type": "folder"
          } ],
          "date_added": "13144328469589505",
          "date_modified": "13175325774331427",
